@@ -10,13 +10,13 @@ five flights of an UAV equipped with a seven-band multispectral camera were
 conducted over a commercial walnut orchard, paired with concurrent ground
 measurements of sampled walnut plants. The RF regression model, utilizing
 vegetation indices derived from orthomosaiced UAV imagery and weather data,
-effectively estimated ground-measured SWPs, achieving an R^2 of 0.63 and a
+effectively estimated ground-measured SWPs, achieving an R^2 of 0.70 and a
 mean absolute error (MAE) of 0.80 bars. The integration of weather data was
 particularly crucial for consolidating data across various flight dates.
 Significant variables for SWP estimation included wind speed and vegetation
 indices such as NDVI, NDRE, and PSRI.A reduced RF model excluding red-edge
 indices of NDRE and PSRI, demonstrated slightly reduced accuracy (R^2 =
-0.54). Additionally, the RF classification model predicted water stress levels
+0.63). Additionally, the RF classification model predicted water stress levels
 in walnut trees with 85% accuracy, surpassing the 80% accuracy of the reduced
 classification model. The results affirm the efficacy of UAV-based
 multispectral imaging combined with machine learning, incorporating thermal
